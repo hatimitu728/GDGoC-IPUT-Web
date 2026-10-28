@@ -1,0 +1,6 @@
+{
+  "name": "GDG on Campus IPUT",
+  "description": "「知る」から「創る」へ。東京・大阪・名古屋の国際工科専門職大学（IPUT）学生が自律運営する次世代デベロッパーコミュニティの公式Webサイト。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
